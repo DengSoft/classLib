@@ -25,5 +25,14 @@ namespace MobileApp.ResModels
 		get;
 		set;
 	}
+	
+	/// <summary>
+        /// 节日名称
+        /// </summary>	
+	public int Name
+	{
+		get;
+		set;
+	}
     }
 }
