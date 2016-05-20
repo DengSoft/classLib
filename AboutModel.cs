@@ -9,7 +9,7 @@ namespace MobileApp.ResModels
     public class AboutModel:BaseResModel
     {
         /// <summary>
-        /// 关于大丰收的信息数据集合
+        /// 信息数据集合
         /// </summary>
         public List<AboutDto> AboutList
         {
