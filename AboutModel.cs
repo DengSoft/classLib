@@ -16,5 +16,11 @@ namespace MobileApp.ResModels
             get; 
             set;
         }
+		
+		public int Name
+		{
+			get;
+			set;
+		}
     }
 }
