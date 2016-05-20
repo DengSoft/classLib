@@ -29,7 +29,7 @@ namespace MobileApp.ResModels
 	/// <summary>
         /// 节日名称
         /// </summary>	
-	public int Name
+	public int ActiveName
 	{
 		get;
 		set;
