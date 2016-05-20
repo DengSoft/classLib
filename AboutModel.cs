@@ -16,11 +16,14 @@ namespace MobileApp.ResModels
             get; 
             set;
         }
-		
-		public int Name
-		{
-			get;
-			set;
-		}
+	
+	/// <summary>
+        /// 姓名
+        /// </summary>	
+	public int Name
+	{
+		get;
+		set;
+	}
     }
 }
